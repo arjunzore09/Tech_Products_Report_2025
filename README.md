@@ -7,7 +7,7 @@ To analyze and evaluate the sales performance of tech products across different 
 - To evaluate product-wise sales performance.
 - To provide actionable insights for improving sales strategy and customer targeting.
 # Procedure:-
-## 1. Data Collection & Preparation:
+### 1. Data Collection & Preparation:
 - Sales data was sourced from the “Tech_product” Excel file containing transactions including product name, quantity, unit price, sales channel, payment type, and state.
 - Cleaned and structured the data to ensure accurate analysis.
 2. Sales Overview:
