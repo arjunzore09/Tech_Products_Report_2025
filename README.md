@@ -29,6 +29,7 @@ To analyze and evaluate the sales performance of tech products across different 
 ### 7. Correlations & Trends:
 - A noticeable preference for Cash and UPI in rural and Tier-2 states.
 - Online channels see higher quantity sales, but Store channels generate higher revenue.
+- <a href="https://github.com/arjunzore09/Tech_Products_Report_2025/blob/main/TECH_PRODUCT_REPORT_2025.png">Dashboard</a>
 # Conclusion:- 
 - Cash and Store-based sales dominate, indicating strong in-person purchasing behavior.
 - Smartwatch and Desktop PCs are leading in both revenue and quantity.
